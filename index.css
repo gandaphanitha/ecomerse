@@ -852,7 +852,8 @@ h5{
     justify-content:space-evenly;
     position: fixed;
     bottom: 0px;
-    width: 70%;
+    width: 80%;
+    height:2vh
     left: 10%;
     z-index: 1;
     border: 1px solid rgb(227, 218, 218);
