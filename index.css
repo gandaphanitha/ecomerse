@@ -848,13 +848,13 @@ h5{
     text-align: center;
     border-radius: 5px 5px 0px 0px;
     background-color: white;
+    margin-left:15%;
     display: flex;
     justify-content:space-evenly;
     position: fixed;
     bottom: 0px;
     width: 80%;
     height:2vh
-    margin-left:15%;
     z-index: 1;
     border: 1px solid rgb(227, 218, 218);
     }
